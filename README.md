@@ -11,3 +11,6 @@ whose I contribute.
 ###[Model Bind View](model_bind_view/)
 This behavior will help you to bind events on the form inputs to get your values
 on your model's attributes.
+
+###[Modal View](modal_view/)
+This behavior will help you to create modals with your Marionette Views.
